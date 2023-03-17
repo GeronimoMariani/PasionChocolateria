@@ -196,24 +196,14 @@ main .h2ChocolatesMain {
 
 /* MAIN NOSOTROS */
 
-main .divHistoria {
-    height: 70vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 main .divHistoria h2 {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
+    margin-top: 20px;
     font-size: 54px;
 }
 
 main .divHistoria p {
-    font-size: 18px;
-    margin: 0 100px;
-    text-align: center;
+    font-size: 20px;
 }
 
 /* MAIN LOCAL */

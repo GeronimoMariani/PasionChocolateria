@@ -26,21 +26,18 @@ header .nav-link {
 }
 
 header .imgLetras {
-    display: block;
     margin: 0px auto;
     padding-top: 125px;
-    width: 425px;
+    width: 600px;
     height: auto;
 }
 
-header .h2Header {
-    text-align: center;
-    color: white;
-    margin: 50px 0px;
+header .h1Header {
+    margin-top: 50px;
 }
 
-header .pasionHeader h2 {
-    margin-top: 20px;
+header .h2Header {
+    margin-top: 10px;
 }
 
 /* HEADER NOSOTROS */
@@ -433,10 +430,6 @@ footer .copyrightLink {
 }
 
 @media (max-width: 425px) {
-    main .imgLetras {
-        width: auto;
-        height: auto;
-    }
     main .h2ChocolatesMain {
         text-align: center;
     }

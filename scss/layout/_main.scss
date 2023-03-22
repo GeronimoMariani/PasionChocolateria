@@ -1,0 +1,224 @@
+/* MAIN INDEX */
+
+main {
+    .divChocolates {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/chocolates.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .divLocales {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/chocolates.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .divNosotros {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/chocolates.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .fa-solid {
+        color: white;
+        font-weight: 900;
+        font-size: 80px;
+        margin-top: 20px;
+    }
+    .h3Steps {
+        margin: 40px 0;
+        color:  white;
+        font-size: 27px;
+    }
+    .divASpan {
+        margin: 30px 0;
+        padding: 10px 15px;
+        font-size: 18px;
+    }
+    .aSteps {
+        font-weight: 700;
+        color: white;
+        border: 3px solid white;
+        border-radius: 30px;
+        padding: 10px;
+        &:hover {
+            background-color: white;
+            color: black;
+        }
+    }
+    .divAcerca {
+        height: 60vh;
+        text-align: center;
+        margin-top: 200px;
+    }
+    .hrAcerca {
+        margin: 0 200px;
+    }
+    .h3Acerca {
+        font-size: 52px;
+    }
+    .divHr {
+        margin-top: 100px;
+        border-color: black;
+    }
+    .pAcerca {
+        margin-top: 75px;
+        font-size: 23px;
+    }
+    .chocolatesMain {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/fondo-chocolatesMain.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .divChocolatesMain {
+        padding: 50px;
+    }
+    .h2ChocolatesMain {
+        font-size: 50px;
+        color: white;
+    }
+}
+
+/* MAIN NOSOTROS */
+
+main {
+    .divHistoria {
+        h2 {
+            margin-bottom: 40px;
+            margin-top: 20px;
+            font-size: 54px;
+        }
+        p {
+            font-size: 20px;
+        }
+    }
+}
+
+/* MAIN LOCAL */
+
+main {
+    .divLocal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .divDireccion {
+        border: 2px solid black;
+        border-radius: 20px;
+        background-color: #e0e0e0;
+        padding: 30px;
+        max-height: 900px;
+        text-align: center;
+    }
+    .divDireccion {
+        .h2Local {
+            font-size: 54px;
+            text-decoration: underline;
+        }
+        .pLocal {
+            font-size: 25px;
+            margin: 40px 0;
+        }
+        iframe {
+            border-radius: 20px;
+        }
+    }
+}
+
+/* MAIN CHOCOLATES */
+
+main {
+    .divH2Choco {
+        text-align: center;
+        background-color: #bd8913;
+        padding: 30px 0;
+        .h2Choco {
+            color: white;
+            font-size: 65px;
+            font-family: 'EB Garamond', serif;
+        }
+    }
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        justify-items: center;
+        align-items: center;
+        row-gap: 25px;
+        padding: 40px 0;
+        background-color: #c7a85e;
+    }
+    .grid-container2 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        justify-items: center;
+        align-items: center;
+        row-gap: 25px;
+        padding: 40px 0;
+        background-color: #c7a85e;
+    }
+    .grid-container3 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        justify-items: center;
+        align-items: center;
+        row-gap: 25px;
+        padding: 40px 0;
+        background-color: #c7a85e;
+    }
+    .grid-container4 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        justify-items: center;
+        align-items: center;
+        row-gap: 25px;
+        padding: 40px 0;
+        background-color: #c7a85e;
+    }
+    .grid-item {
+        text-align: center;
+        img {
+            border: 3px solid white;
+            border-radius: 20px;
+        }
+        h3 {
+            font-size: 22px;
+            margin-top: 5px;
+        }
+    }
+}
+
+/* MAIN CONTACTO */
+
+main {
+    .divContacto {
+        text-align: center;
+    }
+    .h2Contacto {
+        font-size: 30px;
+        letter-spacing: 5px;
+        padding: 50px;
+    }
+    .pContacto {
+        font-size: 18px;
+        padding: 50px;
+        margin-bottom: 20px;
+    }
+}

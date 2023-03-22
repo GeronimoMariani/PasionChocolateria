@@ -347,4 +347,64 @@ footer .footerCh .copyrightFooter {
 footer .footerCh .copyrightLink {
   color: white;
   font-size: 17px;
+}
+
+/* MEDIA */
+@media (max-width: 1024px) {
+  header .tituloHeader {
+    font-size: 2.3rem;
+  }
+}
+@media (max-width: 768px) {
+  main .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    padding: 0 20px;
+  }
+  main .divFooterLogo {
+    display: none;
+  }
+}
+@media (max-width: 425px) {
+  main .h2ChocolatesMain {
+    text-align: center;
+  }
+  main .h3Acerca {
+    font-size: 42px;
+  }
+  main .hrAcerca {
+    margin: 0 100px;
+  }
+  main .pAcerca {
+    font-size: 18px;
+  }
+  main .grid-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(18, 1fr);
+  }
+  main .grid-container2 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
+  }
+  main .grid-container3 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, 1fr);
+  }
+  main .grid-container4 {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, 1fr);
+  }
+  main .h2Contacto {
+    font-size: 27px;
+  }
+  main .pContacto {
+    font-size: 17px;
+  }
+  footer .divFooterLogo {
+    display: none;
+  }
+  footer .h2Footer {
+    border: 2px solid white;
+    border-radius: 10px;
+  }
 }/*# sourceMappingURL=main.css.map */

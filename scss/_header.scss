@@ -1,0 +1,72 @@
+/* HEADER INDEX */
+
+.headerIndex {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+header .nav-link {
+    font-size: 20px;
+    color: white;
+}
+
+header .imgLetras {
+    margin: 0px auto;
+    padding-top: 125px;
+    width: 600px;
+    height: auto;
+}
+
+header .h1Header {
+    margin-top: 50px;
+}
+
+header .h2Header {
+    margin-top: 10px;
+}
+
+/* HEADER NOSOTROS */
+
+.headerNosotros {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header.index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.tituloHeader {
+    font-size: 3.75rem;
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+}
+
+/* HEADER LOCAL */
+
+.headerLocal {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* HEADER CHOCOLATES */
+
+.headerChocolates {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* HEADER CONTACTO */
+
+.headerContacto {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

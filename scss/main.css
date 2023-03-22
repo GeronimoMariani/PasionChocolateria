@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  -webkit-text-decoration: underline #ffffff;
+          text-decoration: underline #ffffff;
+}/*# sourceMappingURL=main.css.map */

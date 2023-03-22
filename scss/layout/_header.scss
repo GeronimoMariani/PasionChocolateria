@@ -30,6 +30,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    .nav-link {
+        font-size: 20px;
+        color: white;
+    }
     .tituloHeader {
         font-size: 3.75rem;
         margin-top: 200px;
@@ -47,6 +51,18 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    .nav-link {
+        font-size: 20px;
+        color: white;
+    }
+    .tituloHeader {
+        font-size: 3.75rem;
+        margin-top: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+    }
 }
 
 /* HEADER CHOCOLATES */
@@ -56,6 +72,18 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    .nav-link {
+        font-size: 20px;
+        color: white;
+    }
+    .tituloHeader {
+        font-size: 3.75rem;
+        margin-top: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+    }
 }
 
 /* HEADER CONTACTO */
@@ -65,4 +93,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    .nav-link {
+        font-size: 20px;
+        color: white;
+    }
+    .tituloHeader {
+        font-size: 3.75rem;
+        margin-top: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+    }
 }

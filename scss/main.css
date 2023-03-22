@@ -44,6 +44,10 @@ a:hover {
   background-size: cover;
   height: 100vh;
 }
+.headerNosotros .nav-link {
+  font-size: 20px;
+  color: white;
+}
 .headerNosotros .tituloHeader {
   font-size: 3.75rem;
   margin-top: 200px;
@@ -60,6 +64,18 @@ a:hover {
   background-size: cover;
   height: 100vh;
 }
+.headerLocal .nav-link {
+  font-size: 20px;
+  color: white;
+}
+.headerLocal .tituloHeader {
+  font-size: 3.75rem;
+  margin-top: 200px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+}
 
 /* HEADER CHOCOLATES */
 .headerChocolates {
@@ -68,6 +84,18 @@ a:hover {
   background-size: cover;
   height: 100vh;
 }
+.headerChocolates .nav-link {
+  font-size: 20px;
+  color: white;
+}
+.headerChocolates .tituloHeader {
+  font-size: 3.75rem;
+  margin-top: 200px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+}
 
 /* HEADER CONTACTO */
 .headerContacto {
@@ -75,6 +103,18 @@ a:hover {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+}
+.headerContacto .nav-link {
+  font-size: 20px;
+  color: white;
+}
+.headerContacto .tituloHeader {
+  font-size: 3.75rem;
+  margin-top: 200px;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.2em;
 }
 
 /* MAIN INDEX */
@@ -349,7 +389,7 @@ footer .copyrightLink {
 
 /* MEDIA */
 @media (max-width: 1024px) {
-  header .tituloHeader {
+  .headerIndex .tituloHeader, .headerNosotros .tituloHeader, .headerLocal .tituloHeader, .headerChocolates .tituloHeader, .headerContacto .tituloHeader {
     font-size: 2.3rem;
   }
 }

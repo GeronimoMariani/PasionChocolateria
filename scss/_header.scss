@@ -5,26 +5,22 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-}
-
-header .nav-link {
-    font-size: 20px;
-    color: white;
-}
-
-header .imgLetras {
-    margin: 0px auto;
-    padding-top: 125px;
-    width: 600px;
-    height: auto;
-}
-
-header .h1Header {
-    margin-top: 50px;
-}
-
-header .h2Header {
-    margin-top: 10px;
+    .nav-link {
+        font-size: 20px;
+        color: white;
+    }
+    .imgLetras {
+        margin: 0px auto;
+        padding-top: 125px;
+        width: 600px;
+        height: auto;
+    }
+    .h1Header {
+        margin-top: 50px;
+    }
+    .h2Header {
+        margin-top: 10px;
+    }
 }
 
 /* HEADER NOSOTROS */
@@ -34,14 +30,14 @@ header .h2Header {
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-}
-.tituloHeader {
-    font-size: 3.75rem;
-    margin-top: 200px;
-    text-align: center;
-    color: white;
-    font-weight: 700;
-    letter-spacing: 0.2em;
+    .tituloHeader {
+        font-size: 3.75rem;
+        margin-top: 200px;
+        text-align: center;
+        color: white;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+    }
 }
 
 /* HEADER LOCAL */

@@ -1,68 +1,64 @@
 /* FOOTER */
 
 footer {
-    .footerCh {
-        background-color: #211f1b;
-        .divFooterDir {
-            text-align: center;
+    background-color: #211f1b;
+    .divFooterDir {
+        text-align: center;
+    }
+    .h2Footer {
+        border: 3px solid white;
+        border-radius: 10px;
+        padding: 15px;
+    }
+    .dirFooter {
+        font-size: 18px;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 8px;
+        font-size: 18px;
+        font-weight: 700;
+        padding-top: 60px;
+    }
+    .redesFooter {
+        text-align: center;
+    }
+    .flexIcon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .wpIcon {
+        margin:  50px 20px 0px 20px;
+        font-size: 50px;
+        .fa-whatsapp {
+            color: green;
         }
-        .h2Footer {
-            border: 3px solid white;
-            border-radius: 10px;
-            padding: 15px;
+    }
+    .igIcon {
+        margin:  50px 20px 0px 20px;
+        font-size: 50px;
+        .fa-instagram {
+            color: transparent;
+            background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+            background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+            background-clip: text;
+            -webkit-background-clip: text;
         }
-        .dirFooter {
-            font-size: 18px;
-            text-decoration: underline;
-            text-decoration-thickness: 2px;
-            text-underline-offset: 8px;
+    }
+    .divCopy {
+        width: 100%;
+        max-width: 100%;
+        hr {
+            margin-top: 40px;
         }
-        .dirFooter {
-            font-size: 18px;
-            font-weight: 700;
-            padding-top: 60px;
-        }
-        .redesFooter {
-            text-align: center;
-        }
-        .flexIcon {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .wpIcon {
-            margin:  50px 20px 0px 20px;
-            font-size: 50px;
-            .fa-whatsapp {
-                color: green;
-            }
-        }
-        .igIcon {
-            margin:  50px 20px 0px 20px;
-            font-size: 50px;
-            .fa-instagram {
-                color: transparent;
-                background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-                background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-                background-clip: text;
-                -webkit-background-clip: text;
-            }
-        }
-        .divCopy {
-            width: 100%;
-            max-width: 100%;
-            hr {
-                margin-top: 40px;
-            }
-        }
-        .copyrightFooter {
-            color: white;
-            text-align: center;
-            margin-top: 30px;
-        }
-        .copyrightLink {
-            color: white;
-            font-size: 17px;
-        }
+    }
+    .copyrightFooter {
+        color: white;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .copyrightLink {
+        color: white;
+        font-size: 17px;
     }
 }

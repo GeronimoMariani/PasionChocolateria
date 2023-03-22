@@ -281,4 +281,70 @@ main .pContacto {
   font-size: 18px;
   padding: 50px;
   margin-bottom: 20px;
+}
+
+/* FOOTER */
+footer .footerCh {
+  background-color: #211f1b;
+}
+footer .footerCh .divFooterDir {
+  text-align: center;
+}
+footer .footerCh .h2Footer {
+  border: 3px solid white;
+  border-radius: 10px;
+  padding: 15px;
+}
+footer .footerCh .dirFooter {
+  font-size: 18px;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}
+footer .footerCh .dirFooter {
+  font-size: 18px;
+  font-weight: 700;
+  padding-top: 60px;
+}
+footer .footerCh .redesFooter {
+  text-align: center;
+}
+footer .footerCh .flexIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer .footerCh .wpIcon {
+  margin: 50px 20px 0px 20px;
+  font-size: 50px;
+}
+footer .footerCh .wpIcon .fa-whatsapp {
+  color: green;
+}
+footer .footerCh .igIcon {
+  margin: 50px 20px 0px 20px;
+  font-size: 50px;
+}
+footer .footerCh .igIcon .fa-instagram {
+  color: transparent;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+footer .footerCh .divCopy {
+  width: 100%;
+  max-width: 100%;
+}
+footer .footerCh .divCopy hr {
+  margin-top: 40px;
+}
+footer .footerCh .copyrightFooter {
+  color: white;
+  text-align: center;
+  margin-top: 30px;
+}
+footer .footerCh .copyrightLink {
+  color: white;
+  font-size: 17px;
 }/*# sourceMappingURL=main.css.map */

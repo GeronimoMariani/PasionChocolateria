@@ -15,7 +15,7 @@ a:hover {
 
 /* HEADER INDEX */
 .headerIndex {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -39,7 +39,7 @@ a:hover {
 
 /* HEADER NOSOTROS */
 .headerNosotros {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header.index.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -59,7 +59,7 @@ a:hover {
 
 /* HEADER LOCAL */
 .headerLocal {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index3.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-4.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -79,7 +79,7 @@ a:hover {
 
 /* HEADER CHOCOLATES */
 .headerChocolates {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index4.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -99,7 +99,7 @@ a:hover {
 
 /* HEADER CONTACTO */
 .headerContacto {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index5.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-6.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -192,7 +192,7 @@ main .pAcerca {
   font-size: 23px;
 }
 main .chocolatesMain {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/fondo-chocolatesMain.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/header-index-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -230,6 +230,7 @@ main .divDireccion {
   border-radius: 20px;
   background-color: #e0e0e0;
   padding: 30px;
+  max-width: 700px;
   max-height: 900px;
   text-align: center;
 }

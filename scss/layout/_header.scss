@@ -8,6 +8,16 @@
     .nav-link {
         font-size: 20px;
         color: white;
+        &:hover {
+            transform: scale(1.3);
+            transition: all .2s;
+        }
+    }
+    .img {
+        &:hover {
+            transform: scale(1.1);
+            transition: all .2s;
+        }
     }
     .imgLetras {
         margin: 0px auto;
@@ -33,6 +43,16 @@
     .nav-link {
         font-size: 20px;
         color: white;
+        &:hover {
+            transform: scale(1.3);
+            transition: all .2s;
+        }
+    }
+    .img {
+        &:hover {
+            transform: scale(1.1);
+            transition: all .2s;
+        }
     }
     .tituloHeader {
         font-size: 3.75rem;
@@ -54,6 +74,16 @@
     .nav-link {
         font-size: 20px;
         color: white;
+        &:hover {
+            transform: scale(1.3);
+            transition: all .2s;
+        }
+    }
+    .img {
+        &:hover {
+            transform: scale(1.1);
+            transition: all .2s;
+        }
     }
     .tituloHeader {
         font-size: 3.75rem;
@@ -75,6 +105,16 @@
     .nav-link {
         font-size: 20px;
         color: white;
+        &:hover {
+            transform: scale(1.3);
+            transition: all .2s;
+        }
+    }
+    .img {
+        &:hover {
+            transform: scale(1.1);
+            transition: all .2s;
+        }
     }
     .tituloHeader {
         font-size: 3.75rem;
@@ -96,6 +136,16 @@
     .nav-link {
         font-size: 20px;
         color: white;
+        &:hover {
+            transform: scale(1.3);
+            transition: all .2s;
+        }
+    }
+    .img {
+        &:hover {
+            transform: scale(1.1);
+            transition: all .2s;
+        }
     }
     .tituloHeader {
         font-size: 3.75rem;

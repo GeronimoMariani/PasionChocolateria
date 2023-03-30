@@ -22,11 +22,11 @@ a {
 }
 .headerIndex .nav-link:hover {
   transform: scale(1.3);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerIndex .img:hover {
   transform: scale(1.1);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerIndex .imgLetras {
   margin: 0px auto;
@@ -54,11 +54,11 @@ a {
 }
 .headerNosotros .nav-link:hover {
   transform: scale(1.3);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerNosotros .img:hover {
   transform: scale(1.1);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerNosotros .tituloHeader {
   font-size: 3.75rem;
@@ -82,11 +82,11 @@ a {
 }
 .headerLocal .nav-link:hover {
   transform: scale(1.3);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerLocal .img:hover {
   transform: scale(1.1);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerLocal .tituloHeader {
   font-size: 3.75rem;
@@ -110,11 +110,11 @@ a {
 }
 .headerChocolates .nav-link:hover {
   transform: scale(1.3);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerChocolates .img:hover {
   transform: scale(1.1);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerChocolates .tituloHeader {
   font-size: 3.75rem;
@@ -138,11 +138,11 @@ a {
 }
 .headerContacto .nav-link:hover {
   transform: scale(1.3);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerContacto .img:hover {
   transform: scale(1.1);
-  transition: all 0.2s;
+  transition: all 0.3s;
 }
 .headerContacto .tituloHeader {
   font-size: 3.75rem;
@@ -263,7 +263,7 @@ main .divLocal {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  margin: 80px 0;
 }
 main .divDireccion {
   border: 2px solid black;
@@ -375,6 +375,7 @@ footer .h2Footer {
   border: 3px solid white;
   border-radius: 10px;
   padding: 15px;
+  cursor: default;
 }
 footer .dirFooter {
   font-size: 18px;
@@ -384,9 +385,13 @@ footer .dirFooter {
   font-size: 18px;
   font-weight: 700;
   padding-top: 60px;
+  cursor: default;
 }
 footer .redesFooter {
   text-align: center;
+}
+footer .redesFooter h2 {
+  cursor: default;
 }
 footer .flexIcon {
   display: flex;

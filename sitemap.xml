@@ -8,34 +8,54 @@
 
 
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/index.html</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/index.html</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/Pages/nosotros.html</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/pages/nosotros</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/Pages/locales.html</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/pages/locales</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/Pages/chocolates.html</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/pages/chocolates</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://geronimomariani.github.io/PasionChocolateria.github.io/Pages/contacto.html</loc>
-  <lastmod>2023-03-31T02:21:42+00:00</lastmod>
+  <loc>https://pasionchocolateria.com.ar/pages/contacto</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pasionchocolateria.com.ar/pages/nosotros.html</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pasionchocolateria.com.ar/pages/locales.html</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pasionchocolateria.com.ar/pages/chocolates.html</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pasionchocolateria.com.ar/pages/contacto.html</loc>
+  <lastmod>2023-04-05T01:58:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 

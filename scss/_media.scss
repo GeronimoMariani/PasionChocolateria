@@ -41,6 +41,7 @@
         .grid-container {
             grid-template-columns: 1fr;
             grid-template-rows: repeat(18, 1fr);
+            padding: 40px 0;
         }
         .grid-container2 {
             grid-template-columns: 1fr;

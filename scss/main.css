@@ -391,7 +391,16 @@ footer .dirFooter {
   text-underline-offset: 8px;
   font-size: 18px;
   font-weight: 700;
-  padding-top: 60px;
+  padding-top: 40px;
+  cursor: default;
+}
+footer .dirFooter2 {
+  font-size: 18px;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+  font-size: 18px;
+  font-weight: 700;
   cursor: default;
 }
 footer .redesFooter {
@@ -483,6 +492,7 @@ footer .copyrightLink:hover {
   main .grid-container {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(18, 1fr);
+    padding: 40px 0;
   }
   main .grid-container2 {
     grid-template-columns: 1fr;

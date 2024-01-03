@@ -158,8 +158,8 @@ main .divChocolates {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/index-1.jpg);
+  height: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../Images/index-1.1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -167,8 +167,8 @@ main .divLocales {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/index-2.jpg);
+  height: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../Images/index-2.1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -176,8 +176,8 @@ main .divNosotros {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: auto;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../Images/index-3.jpg);
+  height: 400px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../Images/index-3.1.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
